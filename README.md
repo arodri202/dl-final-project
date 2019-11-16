@@ -1,5 +1,5 @@
 ## AUTHORS
-##### Angel Rodriguez(arodri36), Hannah Chow(hchow), Tomi Madarikan(omadari1), Delmy Garcia(dgarci14)
+Angel Rodriguez(arodri36), Hannah Chow(hchow), Tomi Madarikan(omadari1), Delmy Garcia(dgarci14)
 
 ### DATA
 Dataset used in ICCV 2017 paper "Learning the Latent ``look'': Unsupervised Discovery of a Style-Coherent Embedding from Fashion Images (https://arxiv.org/pdf/1707.03376.pdf).
